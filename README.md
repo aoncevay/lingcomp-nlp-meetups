@@ -6,9 +6,8 @@ Chana es un **colectivo interdisciplinario de investigación**, conformado por e
 
 Cada quincena, los miembros del grupo (e invitados) se reúnen para intercambiar ideas, discutir tópicos de investigación o revisar trabajos relacionados. El formato es libre e informal. Por ejemplo, se puede presentar un artículo o proyecto de investigación, o se puede leer un artículo y discutirlo durante la sesión con la guía de un responsable.
 
-### Fecha
-
 **Día y hora**: Jueves a las 11 a.m. GMT-5
+
 **Lugar (online)**: Zoom (el link es compartido por correo electrónico).
 
 Si deseas participar de las sesiones, puedes solicitar [aquí](https://groups.google.com/forum/#!forum/lingcomp-nlp-pucp) tu incorporación a la lista de correos. 
@@ -19,7 +18,7 @@ Si deseas participar de las sesiones, puedes solicitar [aquí](https://groups.go
 
 |Día|Responsable|Tema|
 | ----------- | ----------- | ----------- |
-|25/06/2020|John|Using lexical models to detect borrowings in monolingual wordlists|
+|25/06/2020|John|*Using lexical models to detect borrowings in monolingual wordlists*|
 |09/07/2020|Jaime|Por definir|
 
 ### Rotación aproximada
