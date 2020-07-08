@@ -18,7 +18,7 @@ Si deseas participar de las sesiones, puedes solicitar [aquí](https://groups.go
 
 |Día|Responsable|Tema|
 | ----------- | ----------- | ----------- |
-|09/07/2020|Jaime|Por definir|
+|09/07/2020|Jaime|Universal Morphology para Asháninka (work-in-progress)|
 |23/07/2020|Arturo|Por definir|
 
 ### Rotación aproximada
