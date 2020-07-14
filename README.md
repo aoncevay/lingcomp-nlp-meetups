@@ -18,7 +18,6 @@ Si deseas participar de las sesiones, puedes solicitar [aquí](https://groups.go
 
 |Día|Responsable|Tema|
 | ----------- | ----------- | ----------- |
-|09/07/2020|Jaime|Universal Morphology para Asháninka (work-in-progress)|
 |23/07/2020|Arturo|Por definir|
 
 ### Rotación aproximada
@@ -30,6 +29,7 @@ Gina, Adriano, John, Jaime, Arturo, Roberto, Erasmo, Candy, Fernando, … (se co
 
 |Día|Responsable|Tema|
 | ----------- | ----------- | ----------- |
+|09/07/2020|Jaime|Universal Morphology para Asháninka (work-in-progress)|
 |25/06/2020|John|*Using lexical models to detect borrowings in monolingual wordlists*|
 |11/06/2020|Adriano|Un estudio del léxico Iskonawa con atención a las consecuencias del contacto con el Shipibo-Konibo|
 |28/05/2020|Gina |*No data to crawl? Monolingual corpus creation from PDF files of truly low-resource languages in Peru* (LREC2020, [PDF](https://www.aclweb.org/anthology/2020.lrec-1.356/), [slides](https://docs.google.com/presentation/d/1Rpp7eYfC7vnmUPSD1RMi61fh503LzsJIFUEqHD81DS0/edit?usp=sharing))|
