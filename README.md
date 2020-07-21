@@ -18,7 +18,7 @@ Si deseas participar de las sesiones, puedes solicitar [aquí](https://groups.go
 
 |Día|Responsable|Tema|
 | ----------- | ----------- | ----------- |
-|23/07/2020|Arturo|Por definir|
+|23/07/2020|Arturo|*Subword-Level Language Identification for Intra-Word Code-Switching* (NAACL2019,[PDF](https://www.aclweb.org/anthology/N19-1201.pdf),[Video](https://vimeo.com/354264673))|
 
 ### Rotación aproximada
 
