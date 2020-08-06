@@ -18,7 +18,7 @@ Si deseas participar de las sesiones, puedes solicitar [aquí](https://groups.go
 
 |Día|Responsable|Tema|
 | ----------- | ----------- | ----------- |
-|23/07/2020|Arturo|*Subword-Level Language Identification for Intra-Word Code-Switching* (NAACL2019,[PDF](https://www.aclweb.org/anthology/N19-1201.pdf),[Video](https://vimeo.com/354264673))|
+| 20/08/2020 | Erasmo | Por definir |
 
 ### Rotación aproximada
 
@@ -27,8 +27,10 @@ Gina, Adriano, John, Jaime, Arturo, Roberto, Erasmo, Candy, Fernando, … (se co
 
 ## Archivo
 
-|Día|Responsable|Tema|
+|Día|Responsable|Tema|Grabación|
 | ----------- | ----------- | ----------- |
+|06/08/2020|Roberto|*Cross-Linguistic Data Formats, advancing data sharing and re-use in comparative linguistics* ([Paper](https://www.nature.com/articles/sdata2018205))||
+|23/07/2020|Arturo|*Subword-Level Language Identification for Intra-Word Code-Switching* (NAACL2019,[PDF](https://www.aclweb.org/anthology/N19-1201.pdf),[Video](https://vimeo.com/354264673))|[REC](https://drive.google.com/file/d/1YZO3BebhW_7WwfE2BEA0Y0BOquWsQuKb/view?usp=sharing)|
 |09/07/2020|Jaime|Universal Morphology para Asháninka (work-in-progress)|
 |25/06/2020|John|*Using lexical models to detect borrowings in monolingual wordlists*|
 |11/06/2020|Adriano|Un estudio del léxico Iskonawa con atención a las consecuencias del contacto con el Shipibo-Konibo|
