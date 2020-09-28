@@ -18,7 +18,7 @@ Si deseas participar de las sesiones, puedes solicitar [aquí](https://groups.go
 
 |Día|Responsable|Tema|
 | ----------- | ----------- | ----------- |
-| 24/09/2020 | John & Adriano | Morphological analysis for Yine (work in progress) |
+| 01/10/2020 | John & Adriano | Morphological analysis for Yine (work in progress) |
 
 ### Rotación aproximada
 
