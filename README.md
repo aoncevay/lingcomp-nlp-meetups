@@ -18,7 +18,7 @@ Si deseas participar de las sesiones, puedes solicitar [aquí](https://groups.go
 
 |Día|Responsable|Tema|
 | ----------- | ----------- | ----------- |
-| 15/10/2020 | Italo | Proyecto de tesis |
+| 28/10/2020 | Fernando | *Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages* ([PDF](https://arxiv.org/pdf/2010.02353.pdf))|
 
 ### Rotación aproximada
 
@@ -29,6 +29,7 @@ Gina, Adriano, John, Jaime, Arturo, Roberto, Erasmo, Candy, Fernando, … (se co
 
 |Día|Responsable|Tema|REC|
 | ----------- | ----------- | ----------- |----------- |
+| 15/10/2020 | Italo | Proyecto de tesis ||
 | 01/10/2020 | John & Adriano | Morphological analysis for Yine (work in progress) ||
 |10/09/2020|Candy|*Towards Universal Dependencies for Shipibo-Koniibo* ([Paper](https://www.aclweb.org/anthology/W18-6018/))||
 |06/08/2020|Roberto|*Cross-Linguistic Data Formats, advancing data sharing and re-use in comparative linguistics* ([Paper](https://www.nature.com/articles/sdata2018205))|[REC](https://drive.google.com/file/d/1M6xwEqEGeVGyIoReymqH6s4fCd6c94U9/view?usp=sharing)|
